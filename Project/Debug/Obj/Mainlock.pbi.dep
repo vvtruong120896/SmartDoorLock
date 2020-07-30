@@ -1,0 +1,63 @@
+Mainlock.pbi: Z:\Source\Mainlock.c Z:\Project\..\Driver_ST\inc\stm8l15x.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_conf.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_adc.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_aes.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_beep.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_clk.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_comp.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_dac.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_dma.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_exti.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_flash.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_gpio.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_i2c.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_irtim.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_itc.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_iwdg.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_lcd.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_pwr.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_rst.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_rtc.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_spi.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_syscfg.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_tim1.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_tim2.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_tim3.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_tim4.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_tim5.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_usart.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_wfe.h \
+  Z:\Project\..\Driver_ST\inc/stm8l15x_wwdg.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  Z:\Project\..\Driver_ST\inc\stm8l15x_it.h \
+  Z:\Project\..\Driver_User\inc\clock.h \
+  Z:\Project\..\Driver_User\inc\delay.h \
+  Z:\Project\..\Driver_User\inc\timer.h \
+  Z:\Project\..\Driver_User\inc\Softwaretimer.h \
+  Z:\Project\..\Driver_User\inc\eeprom.h \
+  Z:\Project\..\Driver_User\inc\leddisplay.h \
+  Z:\Project\..\Driver_User\inc\drivermotor.h \
+  Z:\Project\..\Driver_User\inc\managerpower.h \
+  Z:\Project\..\Driver_User\inc\defaultdevicecode.h \
+  Z:\Project\..\Driver_User\inc\exti.h \
+  Z:\Project\..\Driver_User\inc\sleep.h \
+  Z:\Project\..\Driver_User\inc\tsm12.h \
+  Z:\Project\..\Driver_User\inc\define.h \
+  Z:\Project\..\Driver_User\inc\uart.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stddef.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\LIB\dlstm8smn.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Product.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xencoding_limits.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Threads.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ysizet.h \
+  Z:\Project\..\Mid\ncp\ncp.h Z:\Project\..\App\zb_command.h \
+  Z:\Project\..\App\fingerprint_app.h \
+  Z:\Project\..\Mid\fingerprint\fingerprint.h \
+  Z:\Project\..\Driver_User\inc\mfcv520.h \
+  Z:\Project\..\Driver_User\inc\audio.h \
+  Z:\Project\..\Driver_User\inc\mainfunctionlist.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stdbool.h

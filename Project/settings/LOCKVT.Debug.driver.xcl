@@ -1,0 +1,13 @@
+"-p" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 8.3\stm8\config\ddf\iostm8l052r8.ddf" 
+
+"--mcuname" 
+
+"STM8L052R8" 
+
+"--erase_memory" 
+
+
+
+
